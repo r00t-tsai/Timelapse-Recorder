@@ -1,6 +1,6 @@
 # Timelapse Recorder
 
-A Python timelapse recorder. Captures frames at a configurable interval and compiles them into an MP4 video using OpenCV.
+A Python timelapse recorder. Captures frames at a configurable interval and compiles them into an MP4 video using OpenCV. Since it is an interval-based capture and compile system, it doesn't interfere much with the performance of your device, making it good for art timelapses.
 
 ---
 
