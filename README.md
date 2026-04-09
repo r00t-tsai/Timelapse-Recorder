@@ -51,10 +51,10 @@ JPEG  0.5x → ~80-250 kb / frame
 
 ### Workflow
 
-1. Tweak settings and press **APPLY SETTINGS**
-2. Press **RECORD** to begin capturing
-3. Optionally **PAUSE** / **RESUME** at any time
-4. Press **STOP** — video compiles automatically if enabled
+1. Tweak settings and press **APPLY SETTINGS**.
+2. Press **RECORD** to begin capturing.
+3. Optionally **PAUSE** / **RESUME** at any time.
+4. Press **STOP** - video compiles automatically.
 
 ---
 
