@@ -29,6 +29,7 @@ JPEG  0.5x → ~80-250 kb / frame
 ---
 
 ### Settings Reference
+#### Some of these settings can be manually edited inside the `config.py`
 
 | Setting | Description |
 |---|---|
