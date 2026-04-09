@@ -38,7 +38,7 @@ JPEG  0.5x → ~80-250 kb / frame
 | **Interval (sec)** | Seconds between captures |
 | **Max Frames** | Auto-stop after N frames (0 = unlimited) |
 | **Playback FPS** | Speed of the compiled video (24–30 recommended) |
-| **Codec** | `mp4v` (default), `avc1`, `XVID`, `MJPG` |
+| **Codec** | `mp4v` (MPEG-4, default), `avc1` (H.264), `XVID`, `MJPG` |
 | **Resolution Scale** | Downscale captures (saves disk space) |
 | **Frame Format** | PNG (lossless) or JPEG (smaller) |
 | **JPEG Quality** | 1–100, only applies when JPEG is chosen |
