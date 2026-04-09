@@ -56,5 +56,21 @@ JPEG  0.5x → ~80-250 kb / frame
 3. Optionally **PAUSE** / **RESUME** at any time.
 4. Press **STOP** - video compiles automatically.
 
+-During recording, the recorder will be minimized in the system tray.
+-If progress is lost due to an unexpected interference like a device shutdown, the program in the second startup will automatically save your progress and prompting you to either compile or delete it.
+
 ---
+## Images
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/6e065357-bb80-46b5-9a15-7a3419e48054" alt="Screenshot 1" /></td>
+    <td><img src="https://github.com/user-attachments/assets/3eadf854-1fc4-466a-9229-75654a777844" alt="Screenshot 2" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/52266ea2-1d1b-4d10-a17f-98c0fbf44104" alt="Screenshot 3" /></td>
+    <td><img src="https://github.com/user-attachments/assets/6dbfa84d-18c8-49a4-b3e3-05d69e51d0cb" alt="Screenshot 4" /></td>
+  </tr>
+</table>
+
+
 
