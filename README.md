@@ -50,13 +50,14 @@ JPEG  0.5x → ~80-250 kb / frame
 ---
 
 ### Workflow
+#### Note that this app requires administrator privileges to work properly and to avoid compiling issues.
 
 1. Tweak settings and press **APPLY SETTINGS**.
-2. Press **RECORD** to begin capturing.
+2. Press **RECORD** to begin capturing. The app will be minimized in the system tray.
 3. Optionally **PAUSE** / **RESUME** at any time.
-4. Press **STOP** - video compiles automatically.
+4. Press **STOP** and the app compiles the timelapse automatically.
 
-- If progress is lost due to an unexpected interference like a device shutdown, the program in the second startup will automatically save your progress and prompting you to either compile or delete it.
+- If progress is lost due to an unexpected interference like a device shutdown, the program in the second startup will automatically save your progress and prompts you to either compile or delete it.
 - During recording, the recorder will be minimized in the system tray. You can find it there if you ever need to take a break to pause or to finish your recording session.
 
 ---
