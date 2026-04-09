@@ -34,18 +34,15 @@ JPEG  0.5x → ~80-250 kb / frame
 | Setting | Description |
 |---|---|
 | **Mode** | Full Screen or specific Window |
-| **Window Title** | Partial title to match (window mode) |
 | **Monitor** | 1-based monitor index |
 | **Interval (sec)** | Seconds between captures |
 | **Max Frames** | Auto-stop after N frames (0 = unlimited) |
-| **Output Dir** | Folder for frames and final video |
-| **Filename** | Output `.mp4` filename |
 | **Playback FPS** | Speed of the compiled video (24–30 recommended) |
 | **Codec** | `mp4v` (default), `avc1`, `XVID`, `MJPG` |
 | **Resolution Scale** | Downscale captures (saves disk space) |
 | **Frame Format** | PNG (lossless) or JPEG (smaller) |
 | **JPEG Quality** | 1–100, only applies when JPEG is chosen |
-| **Keep Frames** | Whether to retain individual frame images |
+| **Keep Frames** | Whether to retain individual frame images after compiling |
 | **Auto-Compile** | Automatically compile video when stopped |
 
 ---
