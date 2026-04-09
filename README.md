@@ -55,7 +55,7 @@ JPEG  0.5x → ~80-250 kb / frame
 3. Optionally **PAUSE** / **RESUME** at any time.
 4. Press **STOP** and the app compiles the timelapse automatically.
 
-- If progress is lost due to an unexpected interference like a device shutdown, the program in the second startup will automatically save your progress and prompts you to either compile or delete it.
+- If progress is lost due to an unexpected interference like a device shutdown, the program in the second startup will automatically save your progress and prompts you to either compile or delete it. If you choose to ignore this and start a new recording session, the data that you recorded before will be overwritten/deleted.
 - During recording, the recorder will be minimized in the system tray. You can find it there if you ever need to take a break to pause or to finish your recording session.
 
 ---
