@@ -50,7 +50,7 @@ JPEG  0.5x → ~80-250 kb / frame
 ### Workflow
 #### Note that this app requires administrator privileges to work properly and to avoid compiling issues.
 
-1. Tweak your settings. This can also be manually edited inside the config.py
+1. Tweak your settings. This can also be manually edited inside the `config.py`
 2. Press **RECORD** to begin capturing. The app will be minimized in the system tray.
 3. Optionally **PAUSE** / **RESUME** at any time.
 4. Press **STOP** and the app compiles the timelapse automatically.
