@@ -73,6 +73,6 @@ JPEG  0.5x → ~80-250 kb / frame
 
 ---
 ## Downloads
-Check the [releases](https://github.com/r00t-tsai/Timelapse-Recorder/releases/tag/v1.0)
+Check the [releases](https://github.com/r00t-tsai/Timelapse-Recorder/releases))
 
 
