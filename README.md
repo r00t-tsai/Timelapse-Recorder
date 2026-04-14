@@ -4,7 +4,7 @@
 
 # <p align="center">Timelapse Recorder </p>
 
-### <p align="center">*A Python timelapse recorder that captures frames at a configurable interval and compiles them into an MP4 or AVI video using OpenCV and FFmpeg.* </p>
+### <p align="center">*A simple timelapse recorder that captures frames at a configurable interval and compiles them into an MP4 or AVI video using OpenCV and FFmpeg.* </p>
 
 ---
 ### Overview
