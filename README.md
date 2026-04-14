@@ -1,35 +1,13 @@
 # Timelapse Recorder
 
-A Python timelapse recorder. Captures frames at a configurable interval and compiles them into an MP4 video using OpenCV and FFmpeg. Since it is an interval-based capture and compile system, it doesn't interfere much with the performance of your device, making it good for art timelapses.
+### *A Python timelapse recorder that captures frames at a configurable interval and compiles them into an MP4 video using OpenCV and FFmpeg.*
 
----
-
-# Manual Usage
-
-### Speed Reference
-1 sec interval @ 30 fps || 1 hr → ~2.5 min video
-
-3 sec interval @ 30 fps || 1 hr → ~50 sec video
-
-10 sec interval @ 30 fps || 1 hr → ~15 sec video
-
-60 sec interval @ 30 fps || 1 hr → ~2.5 sec video
-
----
-
-### Disk Usage Estimates
-PNG  1080p → ~3.8 mb / frame
-
-JPEG  1080p → ~0.3-1 mb / frame
-
-PNG  0.5x → ~0.8-2 mb / frame
-
-JPEG  0.5x → ~80-250 kb / frame
+It is an interval-based capture, it doesn't interfere much with the performance of the device, making it good for art timelapses.
 
 ---
 
 ### Settings Reference
-#### Some of these settings can be manually edited inside the `config.py`
+#### Some of these settings can also be manually edited inside the `config.py`
 
 | Setting | Description |
 |---|---|
@@ -38,7 +16,7 @@ JPEG  0.5x → ~80-250 kb / frame
 | **Interval (sec)** | Seconds between captures |
 | **Max Frames** | Auto-stop after N frames (0 = unlimited) |
 | **Playback FPS** | Speed of the compiled video (24–30 recommended) |
-| **Codec** | `mp4v` (MPEG-4, default), `avc1` (H.264), `XVID`, `MJPG` |
+| **Codec** | `avc1` (H.264, default), `mp4v` (MPEG-4V), `XVID`, `MJPG` |
 | **Resolution Scale** | Downscale captures (saves disk space) |
 | **Frame Format** | PNG (lossless) or JPEG (smaller) |
 | **JPEG Quality** | 1–100, only applies when JPEG is chosen |
@@ -50,7 +28,7 @@ JPEG  0.5x → ~80-250 kb / frame
 ### Workflow
 #### Note that this app requires administrator privileges to work properly and to avoid compiling issues.
 
-1. Tweak your settings. This can also be manually edited inside the `config.py`
+1. Tweak your settings inside the application.
 2. Press **RECORD** to begin capturing. The app will be minimized in the system tray.
 3. Optionally **PAUSE** / **RESUME** at any time.
 4. Press **STOP** and the app compiles the timelapse automatically.
@@ -73,7 +51,7 @@ JPEG  0.5x → ~80-250 kb / frame
 
 ---
 ## Downloads
-Check the [releases](https://github.com/r00t-tsai/Timelapse-Recorder/releases).
+#### Check the [releases](https://github.com/r00t-tsai/Timelapse-Recorder/releases).
 ---
 ## References
 [FFmpeg](https://ffmpeg.org/)
