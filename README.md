@@ -10,6 +10,9 @@
 ### Overview
 This application is an interval-based capture and compile system timelapse recorder that doesn't interfere much with the performance of the device, making it good for art timelapses.
 
+### Updates
+#### 4/14/2026 - New [version 1.2.1](https://github.com/r00t-tsai/Timelapse-Recorder/releases/tag/v1.2.1) that fixes most errors encountered in the previous versions.
+
 ---
 
 ### Settings Reference
