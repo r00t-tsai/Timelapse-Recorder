@@ -1,8 +1,14 @@
-# Timelapse Recorder
+<div align="center">
+  <img width="212" height="212" alt="record-button" src="https://github.com/user-attachments/assets/dea7b99a-567e-4846-be8d-031acc914d34" />
+</div>
 
-### *A Python timelapse recorder that captures frames at a configurable interval and compiles them into an MP4 video using OpenCV and FFmpeg.*
+# <p align="center">Timelapse Recorder </p>
 
-It is an interval-based capture, it doesn't interfere much with the performance of the device, making it good for art timelapses.
+### <p align="center">*A Python timelapse recorder that captures frames at a configurable interval and compiles them into an MP4 video using OpenCV and FFmpeg.* </p>
+
+---
+### Overview
+This application is an interval-based capture and compile system timelapse recorder that doesn't interfere much with the performance of the device, making it good for art timelapses.
 
 ---
 
