@@ -15,7 +15,9 @@ This application is an interval-based capture and compile system timelapse recor
 ---
 
 ### Settings Reference
-#### Some of these settings can also be manually edited inside the `config.py`
+#### <div align="center"> Some of these settings can also be manually edited inside the `config.py`</div>
+
+<div align="center">
 
 | Setting | Description |
 |---|---|
@@ -31,7 +33,7 @@ This application is an interval-based capture and compile system timelapse recor
 | **Keep Frames** | Whether to retain individual frame images after compiling |
 | **Auto-Compile** | Automatically compile video when stopped |
 
----
+</div>
 
 ### Workflow
 #### Note that this app requires administrator privileges to work properly and to avoid compiling issues.
