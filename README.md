@@ -6,6 +6,12 @@
 
 ### <p align="center">*A simple timelapse recorder that captures frames at a configurable interval and compiles them into an MP4 or AVI video using OpenCV and FFmpeg.* </p>
 
+<p align="center">
+  <a href="https://github.com/r00t-tsai/Timelapse-Recorder/releases/latest">
+    <img src="https://img.shields.io/github/downloads/r00t-tsai/Timelapse-Recorder/total?style=for-the-badge&color=2ea44f&label=DOWNLOADS" alt="Download Count">
+  </a>
+</p>
+
 ---
 ### Overview
 This application is an interval-based capture and compile system timelapse recorder that doesn't interfere much with the performance of the device, making it good for art timelapses.
@@ -66,5 +72,3 @@ This application is an interval-based capture and compile system timelapse recor
 ## References
 [FFmpeg](https://ffmpeg.org/)
 [OpenCV](https://opencv.org/)
-
-
