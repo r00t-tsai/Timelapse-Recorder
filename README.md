@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/r00t-tsai/Timelapse-Recorder/releases/latest">
-    <img src="https://img.shields.io/github/downloads/r00t-tsai/Timelapse-Recorder/total?style=for-the-badge&color=2ea44f&label=DOWNLOADS" alt="Download Count">
+    <img src="https://img.shields.io/github/downloads/r00t-tsai/Timelapse-Recorder/total?style=for-the-badge&color=2ea44f&label=DOWNLOAD" alt="Download Count">
   </a>
 </p>
 
