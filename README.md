@@ -13,6 +13,14 @@
 </p>
 
 ---
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/adaaac99-86f9-40b7-a525-9fb197ba34e8" width="800" aria-label="Demonstration" controls></video>
+  <p><i>Video and art by Cattailarts</i></p>
+  <p><i>Please support them: https://x.com/Cattailarts</i></p>
+</div>
+
+---
+
 ### Overview
 This application is an interval-based capture and compile system timelapse recorder that doesn't interfere much with the performance of the device, making it good for art timelapses.
 
@@ -64,14 +72,6 @@ This application is an interval-based capture and compile system timelapse recor
     <td><img src="https://github.com/user-attachments/assets/6dbfa84d-18c8-49a4-b3e3-05d69e51d0cb" alt="Screenshot 4" /></td>
   </tr>
 </table>
-
----
-## Videos
-<div align="center">
-  <video src="https://github.com/user-attachments/assets/adaaac99-86f9-40b7-a525-9fb197ba34e8" width="800" controls></video>
-  <p><i>Video and art by Cattailarts</i></p>
-  <p><i>Please support them: https://x.com/Cattailarts</i></p>
-</div>
 
 ---
 ## Downloads
