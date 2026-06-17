@@ -66,6 +66,14 @@ This application is an interval-based capture and compile system timelapse recor
 </table>
 
 ---
+## Videos
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/adaaac99-86f9-40b7-a525-9fb197ba34e8" width="800" controls></video>
+  <p><i>Video and art by Cattailarts</i></p>
+  <p><i>Please support them: https://x.com/Cattailarts</i></p>
+</div>
+
+---
 ## Downloads
 #### Check the [releases](https://github.com/r00t-tsai/Timelapse-Recorder/releases).
 ---
