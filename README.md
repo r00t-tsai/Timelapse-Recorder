@@ -6,12 +6,6 @@
 
 ### <p align="center">*A simple standalone timelapse recorder that captures frames at a configurable interval and compiles them into an MP4 or AVI video using OpenCV and FFmpeg.* </p>
 
-<p align="center">
-  <a href="https://github.com/r00t-tsai/Timelapse-Recorder/releases/latest">
-    <img src="https://img.shields.io/badge/DOWNLOADS-38-2ea44f?style=for-the-badge" alt="Download Counts">
-  </a>
-</p>
-
 ---
 <div align="center">
   <video src="https://github.com/user-attachments/assets/adaaac99-86f9-40b7-a525-9fb197ba34e8" width="800" aria-label="Demonstration" controls></video>
